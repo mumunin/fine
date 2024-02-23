@@ -386,12 +386,63 @@ const data_channels = [
     '94a28a75b3891e92a97efbe76f941095': "7b39cd0e318ee481b98c36a125c540fb"
   }
 }, {
-  'name': "HUB PREMIER 1",
+  'name': "TRUE FOOTBALL PREMIER 1",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://edge1.laotv.la/live/TSport1/sc-gaFECQ/index.m3u8",
+  'type': "hls"
+}, {
+  'name': "TRUE FOOTBALL PREMIER 2",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://edge1.laotv.la/live/TSport2/sc-gaFECQ/index.m3u8",
+  'type': "hls"
+}, {
+  'name': "TRUE SPORTS 1",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://edge1.laotv.la/live/TrueSport6/sc-gaFECQ/index.m3u8",
+  'type': "hls"
+}, {
+  'name': "TRUE SPORTS 2",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://edge1.laotv.la/live/TrueSport2/sc-gaFECQ/index.m3u8",
+  'type': "hls"
+}, {
+  'name': "TRUE SPORTS 3",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/index.m3u8",
+  'type': "hls"
+}, {
+  'name': "BEIN SPORTS 1 TH",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/index.m3u8",
+  'type': "hls"
+}, {
+  'name': "BEIN SPORTS 2 TH",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/index.m3u8",
+  'type': "hls"
+},{  
+  'name': "SPORTS HUB PREMIER 1",
   'category': "CHANNEL SPORTS TV",
   'link': "https://sh-bks400-09.starhubgo.com/bpk-token/2ab@xxd5bbtzo2hemqncdpeuxh4dc433ypiyx5pzoxaa/bpk-tv/HubPremier1/output/dash/HubPremier1/index.mpd",
   'type': "drm_key",
   'key': {
     'd9df2aa9c4974ed3bbf0730defad68fe': '0cac792b5d5ef9ffb24e324a52c3da0b'
+  }
+}, {
+  'name': "SPORTS HUB PREMIER 2",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://mh-bks400-07.starhubgo.com/bpk-token/2ac@c3iviaztdvcbesyptef5crkrasihkfcictzilvaa/bpk-tv/HubPremier12/output/dash/HubPremier12/index.mpd",
+  'type': "drm_key",
+  'key': {
+    '17e9c5d34f514dd3bce90fcc7deaeaa6': 'ab86716fe05961647a3713243e95dcd2'
+  }
+}, {
+  'name': "SPORTS HUB PREMIER 3",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://sh-bks400-11.starhubgo.com/bpk-token/2ab@ujk0rfddjjhwmjn4gyhsluudlwnssomzu3mdctaa/bpk-tv/HubSports1HDNEW/output/dash/HubSports1HDNEW/index.mpd",
+  'type': "drm_key",
+  'key': {
+    'c9d5e30b01624f7aa6f42507c2a3ed4a': '6d028aeaa1e0400cacf820c85dcdfbc1'
   }
 }, {
   'name': "ESPN SPORTS 1",

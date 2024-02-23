@@ -423,7 +423,7 @@ const data_channels = [
 },{  
   'name': "SPORTS HUB PREMIER 1",
   'category': "CHANNEL SPORTS TV",
-  'link': "https://sh-bks400-09.starhubgo.com/bpk-token/2ab@xxd5bbtzo2hemqncdpeuxh4dc433ypiyx5pzoxaa/bpk-tv/HubPremier1/output/dash/HubPremier1/index.mpd",
+  'link': "https://sh-bks400-09.starhubgo.com/bpk-token/2ab@4s1rycrnohclez4wfneh3xdrfsx2oewi40xxxuca/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query",
   'type': "drm_key",
   'key': {
     'd9df2aa9c4974ed3bbf0730defad68fe': '0cac792b5d5ef9ffb24e324a52c3da0b'
